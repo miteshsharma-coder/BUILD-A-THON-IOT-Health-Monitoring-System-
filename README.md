@@ -3,7 +3,7 @@ Developed an IoT-based Health Monitoring System using ESP32 and multiple biomedi
 
 Requirements:-
 📋 Hardware Requirements
-ESP32 Development Board
+                                                                                                            ESP32 Development Board
 MAX30102 Heart Rate & SpO₂ Sensor
 AD8232 ECG Sensor Module
 Pulse Sensor
@@ -45,6 +45,7 @@ Working:-
 13.Continuous sensor data acquisition
 
 Code:-
+
 #define BLYNK_TEMPLATE_ID "TMPL3hQ09f6o1"
 #define BLYNK_TEMPLATE_NAME "IOT HEALTH MONITORING"
 #define BLYNK_AUTH_TOKEN "SQcKI1KKShFkw_YLncOXIatQ0-I4dyUs"
