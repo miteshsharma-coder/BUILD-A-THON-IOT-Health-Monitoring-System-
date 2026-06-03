@@ -9,7 +9,6 @@ AD8232 ECG Sensor Module,
 Pulse Sensor,
 TEMT6000 Sensor,
 OLED Display (SSD1306, 128×64),
-PCB and Power Supply Circuit,
 Connecting Wires,
 USB Cable,
 
